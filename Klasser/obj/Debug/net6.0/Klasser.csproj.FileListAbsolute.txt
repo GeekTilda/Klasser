@@ -1,0 +1,15 @@
+C:\Programmering2\Klasser\Klasser\bin\Debug\net6.0\Klasser.exe
+C:\Programmering2\Klasser\Klasser\bin\Debug\net6.0\Klasser.deps.json
+C:\Programmering2\Klasser\Klasser\bin\Debug\net6.0\Klasser.runtimeconfig.json
+C:\Programmering2\Klasser\Klasser\bin\Debug\net6.0\Klasser.dll
+C:\Programmering2\Klasser\Klasser\bin\Debug\net6.0\Klasser.pdb
+C:\Programmering2\Klasser\Klasser\obj\Debug\net6.0\Klasser.csproj.AssemblyReference.cache
+C:\Programmering2\Klasser\Klasser\obj\Debug\net6.0\Klasser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programmering2\Klasser\Klasser\obj\Debug\net6.0\Klasser.AssemblyInfoInputs.cache
+C:\Programmering2\Klasser\Klasser\obj\Debug\net6.0\Klasser.AssemblyInfo.cs
+C:\Programmering2\Klasser\Klasser\obj\Debug\net6.0\Klasser.csproj.CoreCompileInputs.cache
+C:\Programmering2\Klasser\Klasser\obj\Debug\net6.0\Klasser.dll
+C:\Programmering2\Klasser\Klasser\obj\Debug\net6.0\refint\Klasser.dll
+C:\Programmering2\Klasser\Klasser\obj\Debug\net6.0\Klasser.pdb
+C:\Programmering2\Klasser\Klasser\obj\Debug\net6.0\Klasser.genruntimeconfig.cache
+C:\Programmering2\Klasser\Klasser\obj\Debug\net6.0\ref\Klasser.dll

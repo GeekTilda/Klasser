@@ -27,3 +27,15 @@ purpleBall.color = "purple";
 purpleBall.radius = 3;
 purpleBall.yLocation = 72;
 purpleBall.xLocation = 14;
+
+System.Console.WriteLine(purpleBall.color);
+Console.ReadLine();
+
+class Ball
+{
+    public int yLocation; //Kanske hackigt men oftast brukar man räkna pixlar.
+    public int xLocation; //Kanske hackigt men oftast brukar man räkna pixlar.
+    public string color; 
+    public double radius; //Eftersom radien skulle kunna vara ett decimaltal
+}
+

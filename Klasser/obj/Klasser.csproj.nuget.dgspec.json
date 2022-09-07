@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Programmering2\\Klasser\\Klasser\\Klasser.csproj": {}
+    "C:\\Programmering2\\Klasser\\Klasser\\Klasser.csproj": {}
   },
   "projects": {
-    "c:\\Programmering2\\Klasser\\Klasser\\Klasser.csproj": {
+    "C:\\Programmering2\\Klasser\\Klasser\\Klasser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Programmering2\\Klasser\\Klasser\\Klasser.csproj",
+        "projectUniqueName": "C:\\Programmering2\\Klasser\\Klasser\\Klasser.csproj",
         "projectName": "Klasser",
-        "projectPath": "c:\\Programmering2\\Klasser\\Klasser\\Klasser.csproj",
+        "projectPath": "C:\\Programmering2\\Klasser\\Klasser\\Klasser.csproj",
         "packagesPath": "C:\\Users\\lindbladaderud.tild\\.nuget\\packages\\",
-        "outputPath": "c:\\Programmering2\\Klasser\\Klasser\\obj\\",
+        "outputPath": "C:\\Programmering2\\Klasser\\Klasser\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lindbladaderud.tild\\AppData\\Roaming\\NuGet\\NuGet.Config",
